@@ -1,0 +1,23 @@
+{
+  "name": "readable-number-js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/BosNaufal/readable-number-js",
+  "authors": [
+    "BosNaufal"
+  ],
+  "description": "Simple Javascript function to make an integer become readable and vice versa.",
+  "main": "readable-number.js",
+  "keywords": [
+    "Readable Number",
+		"Currency",
+		"Humanize"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
