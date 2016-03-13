@@ -43,7 +43,9 @@ var readNumber = function (val) {
     // join Array
     return string.join('');
   }
-
+  
+  // Prevent falling in undefined value
+  return val;
 };
 
 var unReadNumber = function (val) {
