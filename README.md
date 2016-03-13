@@ -24,7 +24,7 @@ console.log(typeof unReadNumber('10,000'), unReadNumber('10,000')); // number, 1
 
 
 ## Vue User?
-You can download [readable-number.js](https://github.com/BosNaufal/readable-number) as a Vue Filter [here](https://github.com/BosNaufal/vue-readable-number). Check it out!
+You can download [readable-number.js](https://github.com/BosNaufal/readable-number) as a Vue Filter [here](https://github.com/BosNaufal/vue-readable-number) OR as a Vue Directive [Here](https://github.com/BosNaufal/vue-calc-input) Check it out!
 
 ## Thank You for Making this useful~
 Hopefully it can be useful for your next projects.
