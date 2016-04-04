@@ -8,6 +8,10 @@ Include the [readable-number.js](./readable-number.js) to your HTML or web page 
 ```bash
 bower install readable-number-js
 ```
+Or via NPM
+```bash
+npm install readable-number
+```
 
 ## Usage
 ```javascript

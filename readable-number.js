@@ -9,7 +9,7 @@
 var readNumber = function (val) {
 
   // Prevent falling in undefined value
-	if(val === '' || val === undefined || val === NaN ) return 0;
+  if(val === '' || val === undefined || val === NaN ) return 0;
 
   // if there's a truthy number..
   if(val){
@@ -54,7 +54,7 @@ var readNumber = function (val) {
 var unReadNumber = function (val) {
 
   // Prevent falling in undefined value
-	if(val === '' || val === undefined || val === NaN ) return 0;
+  if(val === '' || val === undefined || val === NaN ) return 0;
 
   // make sure the val is string
   if(typeof val == 'string') {

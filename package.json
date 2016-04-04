@@ -1,0 +1,25 @@
+{
+  "name": "readable-number",
+  "version": "1.0.0",
+  "description": "Simple Javascript function to make an integer become readable and vice versa",
+  "main": "readable-number.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BosNaufal/readable-number.git"
+  },
+  "keywords": [
+    "readable",
+    "number",
+    "calculator",
+    "calculator",
+    "number",
+    "readable",
+    "number"
+  ],
+  "author": "Naufal Rabbani <bosnaufalemail@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BosNaufal/readable-number/issues"
+  },
+  "homepage": "https://github.com/BosNaufal/readable-number#readme"
+}
